@@ -12,4 +12,4 @@
 4. Create a Bash script which will print a message based upon which day of the week it is (eg. 'Happy hump day' for Wednesday, 'TGIF' for Friday etc).
 
 
-5. Write a shell script to display files and folders from current directory
+5. Write a shell script to display files and folders from current directory.
